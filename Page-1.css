@@ -27,7 +27,7 @@
   object-position: 50% 100%;
   width: 550px;
   height: 550px;
-  background-image: url("images/foto.jpg");
+  background-image: url("foto.jpg");
   background-position: 50% 50%;
   filter: brightness(0.75);
   margin: -61px 20px 0 auto;
